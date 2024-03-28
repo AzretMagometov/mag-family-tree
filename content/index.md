@@ -1,7 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Семейное дерево Магометовых
 ---
-Начни с [[Магометов Азрет Ахметович]]
+## Список 
+
+- [[Билял]]
 
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
